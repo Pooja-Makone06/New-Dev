@@ -1,0 +1,6 @@
+{
+  "name": "GenericMed - Generic Medicine Marketplace & Regulatory Platform",
+  "description": "Online generic medicine marketplace, CDSCO regulatory surveillance, dispensary fulfillment OS, and verified prescription concordance platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
